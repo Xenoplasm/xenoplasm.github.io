@@ -266,7 +266,7 @@ BirthdayCardComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵde
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](16, "2 - Poner de un bol/cuenco de 20cm de di\u00E1metro (no vale que sea de 10cm de radio) una chuche por cada uno de nosotros");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](17, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](18, "3 - Ofrecer y compartir chuches con la gente de tu famlia");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](18, "3 - Ofrecer y compartir chuches con la gente de tu familia");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](19, "p");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](20, "4 - Acompa\u00F1ar las chuches con alg\u00FAn tipo de bebida espirituosa");

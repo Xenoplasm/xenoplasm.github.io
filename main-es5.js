@@ -512,7 +512,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](17, "p");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](18, "3 - Ofrecer y compartir chuches con la gente de tu famlia");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](18, "3 - Ofrecer y compartir chuches con la gente de tu familia");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
